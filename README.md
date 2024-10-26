@@ -9,7 +9,7 @@
 
 **🔭 I’m currently working on:**<br> - Websites development at a software house, creating engaging, user-friendly designs.<br> - A 3D computer graphics project in a team, pushing the boundaries of visual storytelling.<br><br>**👯 I’m looking to collaborate on:**<br> - Innovative 3D development projects! Always excited to share skills and learn from others.<br><br>**🤝 I’m looking for help with:**<br> - Advanced website development techniques and design inspiration to enhance user experience and responsiveness.<br><br>**🌱 Currently learning:**<br> - JavaScript and Angular to take web interactivity to the next level.<br> - Game development techniques, diving deep into how interactivity and immersion can be crafted.<br><br>**⚡ Fun fact:**<br> - I once created a Rubik's Cube animation in Blender as my first 3D project—puzzle-solving meets art!
 
-**📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](zainkashif1122@gmail.com)
+**📫 How to reach me:** `zainkashif1122@gmail.com`
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/zainkashif) 

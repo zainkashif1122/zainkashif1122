@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Kashif</h1>
-<h3 align="center">A passionate 3D Developer and Frontend Web Developer from Pakistan</h3>
+<h3 align="center">A passionate 3D Developer, Game Developer and Frontend Web Developer from Pakistan</h3>
 
 <br>
 
